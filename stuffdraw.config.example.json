@@ -1,0 +1,7 @@
+// Copy and remove comments.
+// session.secret is a string containing a secret for use with sessions
+{
+	"session": {
+		"secret": null
+	}
+}

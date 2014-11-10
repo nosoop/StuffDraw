@@ -1,0 +1,27 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+canvas {
+	border: 1px solid #333;
+}
+
+#mainview-height {
+	height: calc(100vh - 120px);
+}
+
+#guessdrawing, #canvasbox {
+	height: 100%;
+}
+
+.header h3 {
+  padding-bottom: 19px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
